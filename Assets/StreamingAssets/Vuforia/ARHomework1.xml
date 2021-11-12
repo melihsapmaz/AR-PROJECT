@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sultan-ahmet-camii" size="5.000000 3.751763" />
+    <ImageTarget name="topkapi-sarayi" size="10.000000 7.500000" />
+    <ImageTarget name="saintantoine" size="10.000000 6.648936" />
+    <ImageTarget name="kiz-kulesi" size="10.000000 6.656250" />
+    <ImageTarget name="haydarpasa-gari" size="10.000000 6.691964" />
+    <ImageTarget name="dolmabahce-saat-kulesi" size="10.000000 14.943960" />
+    <ImageTarget name="ayasofya" size="10.000000 7.782101" />
+  </Tracking>
+</QCARConfig>
